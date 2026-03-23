@@ -1,4 +1,4 @@
-package Array;
+
 public class MoveZeroes {
 
     // Function to move zeroes to end

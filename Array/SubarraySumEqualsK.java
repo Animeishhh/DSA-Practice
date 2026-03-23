@@ -1,8 +1,8 @@
-package Array;
+
 
 import java.util.*;
 
- class SubarraySumEqualsK {
+public class SubarraySumEqualsK {
 
     public static int subarraySum(int[] nums, int k) {
         int res = 0;
