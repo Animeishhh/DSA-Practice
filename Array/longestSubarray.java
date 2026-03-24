@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class longestSubarray {
 
     public static int longestSubarray(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
